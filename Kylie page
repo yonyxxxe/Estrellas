@@ -429,11 +429,18 @@ http://up.kiwi:80/11992856159/3599199800/300319
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", XXX SUNNY LEONE
 http://s.rocketdns.info:8080/live/39619456/57108545/470673.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", XXX
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", XXX LONDON KEYS
+http://duketv.org:8080/live/FranciscoMunoz/wtsm5YdFYP/791525.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", XXX
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", XXX
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", XXX
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", XXX JADA STEVENS
+http://duketv.org:8080/live/FranciscoMunoz/wtsm5YdFYP/791518.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", XXX NICOLE DOSHI 3
+http://duketv.org:8080/live/FranciscoMunoz/wtsm5YdFYP/791535.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", XXX B A E B
+http://duketv.org:8080/live/FranciscoMunoz/wtsm5YdFYP/791561.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", XXX
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", XXX
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", XXX
