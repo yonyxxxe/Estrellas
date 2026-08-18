@@ -1,18 +1,14 @@
 #EXTM3U
 #EXTINF:-1, AVENGERS
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/13433.ts
-
 #EXTINF:-1, ALIEN
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/42064.ts
-
 #EXTINF:-1, SPARTACUS
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/17380.ts
-
 #EXTINF:-1, BIG BANG THEORY
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/35854.ts
-
-#EXTINF:-1, GAME OF TRONOS
-
+#EXTINF:-1, GAME OF THRONES
+http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/35840.ts
 #EXTINF:-1,
 
 #EXTINF:-1,
