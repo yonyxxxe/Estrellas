@@ -28,7 +28,7 @@ http://181.78.8.199:8000/play/a0a6/index.m3u8
 #EXTINF:-1 group-title="TV", CINECANAL
 http://181.78.8.199:8000/play/a094/index.m3u8
 #EXTINF:-1 group-title="TV", WARNER
-
+http://190.60.48.151:8010/play/a03w/index.m3u8
 #EXTINF:-1 group-title="TV", TNT
 http://181.78.8.199:8000/play/a097/index.m3u8
 #EXTINF:-1 group-title="TV", CINEMAX
@@ -38,21 +38,37 @@ http://190.217.66.92:8000/play/a0pt/index.m3u8
 #EXTINF:-1 group-title="TV", HBO2
 http://200.229.147.210:9999/play/a00z/index.m3u8
 #EXTINF:-1 group-title="TV", HBO+
-
+http://190.61.101.11:7050/play/a050/index.m3u8?hls
 #EXTINF:-1 group-title="TV", HBOX
 http://45.228.233.60:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="TV", ESPN
-
+http://191.97.61.32:8000/play/a0c0/index.m3u8
 #EXTINF:-1 group-title="TV", ESPN2
-
+http://190.60.48.151:8010/play/ESPN2_TVV/index.m3u8
 #EXTINF:-1 group-title="TV", ESPN3
-
-#EXTINF:-1 group-title="TV" ,PARAMOUNT
+http://190.60.48.151:8010/play/ESPN3_TVV/index.m3u8
+#EXTINF:-1 group-title="TV", PARAMOUNT
 http://181.224.200.5:2277/play/a0df/index.m3u8
+#EXTINF:-1 group-title="TV", GOLDEN PREMIER
+http://190.60.32.178:8178/play/a097/index.m3u8
+#EXTINF:-1 group-title="TV", SPACE
+http://181.78.8.199:8000/play/a096/index.m3u8
+#EXTINF:-1 group-title="TV", WIN+
+http://179.1.199.50:9000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="TV", WIN
+http://181.118.153.15:8000/play/op88/index.m3u8?hls
 #EXTINF:-1 group-title="TV",
 #EXTINF:-1 group-title="TV",
 #EXTINF:-1 group-title="TV",
 #EXTINF:-1 group-title="TV",
+#EXTINF:-1 group-title="TV",
+#EXTINF:-1 group-title="TV",
+#EXTINF:-1 group-title="TV",
+#EXTINF:-1 group-title="TV",
+
+
+
+
 
 #EXTINF:-1 tvg-id="♥ OnexXx ZZ Premiere 1 ᴴᴰ" tvg-logo="noimage.png" group-title="Grupos", ♥ OnexXx ZZ Premiere 1 ᴴᴰ
 http://websafety101.net:5050/08cmina@gmail.com/8h4jG93O4U/656855
@@ -67,7 +83,8 @@ http://websafety101.net:5050/08cmina@gmail.com/8h4jG93O4U/656863
 http://websafety101.net:5050/08cmina@gmail.com/8h4jG93O4U/656866
 
 #EXTINF:-1 tvg-id="♥ OnexXx ZZ Premiere 12 ᴴᴰ" tvg-logo="noimage.png" group-title="Grupos", ♥ OnexXx ZZ Premiere 12 ᴴᴰ
-http://websafety101.net:5050/08cmina@gmail.com/8h4jG93O4U/656865
+http://websafety101.net:5050/0
+8cmina@gmail.com/8h4jG93O4U/656865
 
 #EXTINF:-1 tvg-id="♥ OnexXx ZZ Premiere 14 ᴴᴰ" tvg-logo="noimage.png" group-title="Grupos", ♥ OnexXx ZZ Premiere 14 ᴴᴰ
 http://websafety101.net:5050/08cmina@gmail.com/8h4jG93O4U/656867
