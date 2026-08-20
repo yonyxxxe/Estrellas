@@ -1,41 +1,47 @@
 #EXTM3U
-#EXTINF:-1, AVENGERS
+#EXTINF:-1 group-title"TV", AVENGERS
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/13433.ts
-#EXTINF:-1, ALIEN
+#EXTINF:-1 group-title"TV", ALIEN
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/42064.ts
-#EXTINF:-1, SPARTACUS
+#EXTINF:-1 group-title"TV", SPARTACUS
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/17380.ts
-#EXTINF:-1, BIG BANG THEORY
+#EXTINF:-1 group-title"TV", BIG BANG THEORY
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/35854.ts
-#EXTINF:-1, GAME OF THRONES
+#EXTINF:-1 group-title"TV", GAME OF THRONES
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/35840.ts
-#EXTINF:-1, WINSPORTS+
+#EXTINF:-1 group-title"TV", WINSPORTS+
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/29601.ts
-#EXTINF:-1, WINSPORTS
+#EXTINF:-1 group-title"TV", WINSPORTS
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/928.ts
-#EXTINF:-1, CARACOL
+#EXTINF:-1 group-title"TV", CARACOL
 http://181.78.21.38:8000/play/a0b5/index.m3u8
-#EXTINF:-1, RCN
+#EXTINF:-1 group-title"TV", RCN
 http://181.78.82.130:8000/play/a0dn/index.m3u8
-#EXTINF:-1, HISTORY
+#EXTINF:-1 group-title"TV", HISTORY
 http://181.78.84.78:8910/play/a01i/index.m3u8?hls
-#EXTINF:-1, HISTORY 2
+#EXTINF:-1 group-title"TV", HISTORY 2
 http://190.108.83.69:8000/play/a0b5/index.m3u8
-#EXTINF:-1, CNN ES
+#EXTINF:-1 group-title"TV", CNN ES
 http://181.78.8.199:8000/play/a08a/index.m3u8
-#EXTINF:-1, NTN24
+#EXTINF:-1 group-title"TV", NTN24
 http://181.78.8.199:8000/play/a0a6/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1 group-title"TV",
 
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1 group-title"TV",
+#EXTINF:-1 group-title"TV", 
+#EXTINF:-1 group-title"TV",
+#EXTINF:-1 group-title"TV",
+#EXTINF:-1 group-title"TV",
+#EXTINF:-1 group-title"TV",
+#EXTINF:-1 group-title"TV",
+#EXTINF:-1 group-title"TV", 
+#EXTINF:-1 group-title"TV",
+#EXTINF:-1 group-title"TV",
+#EXTINF:-1 group-title"TV",
+#EXTINF:-1 group-title"TV",
+#EXTINF:-1 group-title"TV",
+#EXTINF:-1 group-title"TV",
+#EXTINF:-1 group-title"TV",
 
 #EXTINF:-1 tvg-id="♥ OnexXx ZZ Premiere 1 ᴴᴰ" tvg-logo="noimage.png" group-title="Grupos", ♥ OnexXx ZZ Premiere 1 ᴴᴰ
 http://websafety101.net:5050/08cmina@gmail.com/8h4jG93O4U/656855
