@@ -16,15 +16,15 @@ http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/928.ts
 #EXTINF:-1, CARACOL
 http://181.78.21.38:8000/play/a0b5/index.m3u8
 #EXTINF:-1, RCN
-
+http://181.78.82.130:8000/play/a0dn/index.m3u8
 #EXTINF:-1, HISTORY
-
+http://181.78.84.78:8910/play/a01i/index.m3u8?hls
 #EXTINF:-1, HISTORY 2
-
+http://190.108.83.69:8000/play/a0b5/index.m3u8
 #EXTINF:-1, CNN ES
-
+http://181.78.8.199:8000/play/a08a/index.m3u8
 #EXTINF:-1, NTN24
-
+http://181.78.8.199:8000/play/a0a6/index.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,
