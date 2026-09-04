@@ -1,7 +1,16 @@
 9#EXTM3U
 #EXTINF:-1 group-title="TV", AVENGERS
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/13433.ts
+#EXTINF:-1 group-title="TV", AVENGERS 2
+
 #EXTINF:-1 group-title="TV", ALIEN
+
+#EXTINF:-1 group-title="TV", ALIEN 2
+
+#EXTINF:-1 group-title="TV", DEPREDADOR
+
+#EXTINF:-1 group-title="TV",
+#EXTINF:-1 group-title="TV",
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/42064.ts
 #EXTINF:-1 group-title="TV", SPARTACUS
 http://premiumplay.site:8080/live/CristianJimenez/Vh26mPJsgT/17380.ts
