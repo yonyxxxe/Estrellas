@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://black-ed.de/wp-content/uploads/2023/12/neuLogo-schwarz.png" group-title="black", 1
+#EXTINF:-1 tvg-logo="https://www.australianonlinecarparts.com.au/assets/full/92286945.jpg?20200710040652" group-title="black", 1
 http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/1354850.ts
 #EXTINF:-1 tvg-logo="https://black-ed.de/wp-content/uploads/2023/12/neuLogo-schwarz.png" group-title="black", 2
 http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/1354954.ts
