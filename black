@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo"https://black-ed.de/wp-content/uploads/2023/12/neuLogo-schwarz.png" group-title"black", 1
+#EXTINF:-1 tvg-logo="https://black-ed.de/wp-content/uploads/2023/12/neuLogo-schwarz.png" group-title="black", 1
 http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/1354850.ts
-#EXTINF:-1 tvg-logo"https://black-ed.de/wp-content/uploads/2023/12/neuLogo-schwarz.png" group-title"black", 2
+#EXTINF:-1 tvg-logo="https://black-ed.de/wp-content/uploads/2023/12/neuLogo-schwarz.png" group-title="black", 2
 http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/1354954.ts
-#EXTINF:-1 tvg-logo"https://black-ed.de/wp-content/uploads/2023/12/neuLogo-schwarz.png" group-title"black", 3
+#EXTINF:-1 tvg-logo="https://black-ed.de/wp-content/uploads/2023/12/neuLogo-schwarz.png" group-title="black", 3
 http://altontestruzlegustaelnepe.neorpahe.top:8080/live/6701779271575/a9cd5c7c9997/73868.ts
-#EXTINF:-1 tvg-logo"https://black-ed.de/wp-content/uploads/2023/12/neuLogo-schwarz.png" group-title"black", 4
+#EXTINF:-1 tvg-logo="https://black-ed.de/wp-content/uploads/2023/12/neuLogo-schwarz.png" group-title="black", 4
 http://clearhd.club:8080/live/UNsb3EIuJp/sQXeHTbSlu/695206.ts
-#EXTINF:-1 tvg-logo"https://black-ed.de/wp-content/uploads/2023/12/neuLogo-schwarz.png" group-title"black", 5
+#EXTINF:-1 tvg-logo="https://black-ed.de/wp-content/uploads/2023/12/neuLogo-schwarz.png" group-title="black", 5
 http://clearhd.club:8080/live/UNsb3EIuJp/sQXeHTbSlu/695202.ts
 #EXTINF:-1, nym
 http://clearhd.club:8080/live/UNsb3EIuJp/sQXeHTbSlu/695076.ts
