@@ -38,7 +38,7 @@ http://181.78.21.38:8000/play/a0b5/index.m3u8
 #EXTINF:-1 group-title="TV", RCN
 http://redworld.pro:8880/@eder@zamora/axRLmPZgKyeA/318383
 #EXTINF:-1 group-title="TV", HISTORY
-http://181.78.84.78:8910/play/a01i/index.m3u8?hls
+http://186.33.47.113:8000/play/a08d/index.m3u8
 #EXTINF:-1 group-title="TV", HISTORY 2
 http://190.108.83.69:8000/play/a0b5/index.m3u8
 #EXTINF:-1 group-title="TV", CNN ES
